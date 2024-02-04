@@ -93,10 +93,9 @@ Softwar Developer from Bangladesh.
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" title="spacy" alt="spaCy" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://matplotlib.org/_static/logo_light.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="seaborn" alt="seaborn" width="40" height="40"/>&nbsp;
-  
-  <img src="https://matplotlib.org/_static/logo_light.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+
 </div>
 
 <!---
